@@ -1,7 +1,7 @@
 # AutoScrapingWebsite
 Simple Auto Scraping Website
 
-<img src="carbod (4).png">
+<img src="carbon (4).png">
 
 ```
 How to use?
